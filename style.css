@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "lato";
+    src: url(./assets/Lato-Regular.ttf);
+}
+
+.lato{
+    font-family: "lato";
+}
+ 
+@font-face {
+    font-family: "latoitalic";
+    src: url(./assets/Lato-Italic.ttf);
+}
+
+.latoitalic{
+    font-family: "latoitalic";
+}
+
+.about{
+font-family: "lato";
+font-size: 14px;
+line-height: 16px;
+font-weight: 400;
+
+}
+
+
