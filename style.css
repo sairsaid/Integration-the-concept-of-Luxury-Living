@@ -16,6 +16,15 @@
     font-family: "latoitalic";
 }
 
+@font-face {
+    font-family: "domaine";
+    src: url(./assets/FontsFree-Net-DomaineDisplayBold.ttf);
+}
+
+.domaine{
+    font-family: "domaine";
+}
+
 .about{
 font-family: "lato";
 font-size: 14px;
